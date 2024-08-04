@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Next"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"CodeGPT.apiKey": "CodeGPT Plus Beta"
+	}
+}
